@@ -1,0 +1,340 @@
+{
+  "products" : [
+  {
+    "id": 1,
+    "name": "PlayStation",
+    "description": "PlayS 5",
+    "price": 9.99,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154500/download-(1).jfif"
+  },
+  {
+    "id": 2,
+    "name": "iWatch",
+    "description": "Apple iWatch SE",
+    "price": 19.99,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154740/download-(2).jfif"
+  },
+  {
+    "id": 3,
+    "name": "Cosmetics",
+    "description": "Cosmetics & Skin care",
+    "price": 20,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154838/download-(3).jfif"
+  },
+  {
+    "id": 4,
+    "name": "Instax",
+    "description": "Instax Camera",
+    "price": 25,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154931/download.jfif"
+  },
+  {
+    "id": 5,
+    "name": "Beats Headphones",
+    "description": "Beats Headphones V1",
+    "price": 30,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728155132/images-(1).jfif"
+  },
+  {
+    "id": 6,
+    "name": "Laptop",
+    "description": "Macbook Pro",
+    "price": 999,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728155224/images.jfif"
+  },
+  {
+    "id": 7,
+    "name": "New Game",
+    "description": "Description of Product 1",
+    "price": 9.99,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154500/download-(1).jfif"
+  },
+  {
+    "id": 8,
+    "name": "Time",
+    "description": "Description of Product 2",
+    "price": 19.99,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154740/download-(2).jfif"
+  },
+  {
+    "id": 9,
+    "name": "Moisturizer",
+    "description": "Description of Product 3",
+    "price": 20,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154838/download-(3).jfif"
+  },
+  {
+    "id": 10,
+    "name": "Photos",
+    "description": "Description of Product 4",
+    "price": 25,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154931/download.jfif"
+  },
+  {
+    "id": 11,
+    "name": "Earphones",
+    "description": "Description of Product 5",
+    "price": 30,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728155132/images-(1).jfif"
+  },
+  {
+    "id": 12,
+    "name": "Tech",
+    "description": "Description of Product 6",
+    "price": 999,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728155224/images.jfif"
+  },
+  {
+    "id": 13,
+    "name": "Product One",
+    "description": "Description of Product 2",
+    "price": 19.99,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154740/download-(2).jfif"
+  },
+  {
+    "id": 14,
+    "name": "Product two",
+    "description": "Description of Product 3",
+    "price": 20,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154838/download-(3).jfif"
+  },
+  {
+    "id": 15,
+    "name": "Item",
+    "description": "Description of Product 4",
+    "price": 25,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154931/download.jfif"
+  },
+  {
+    "id": 16,
+    "name": "Data Item",
+    "description": "Description of Product 5",
+    "price": 30,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728155132/images-(1).jfif"
+  },
+  {
+    "id": 17,
+    "name": "One",
+    "description": "Description of Product 6",
+    "price": 999,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728155224/images.jfif"
+  },
+  {
+    "id": 18,
+    "name": "Two",
+    "description": "Description of Product 1",
+    "price": 9.99,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154500/download-(1).jfif"
+  },
+  {
+    "id": 19,
+    "name": "Three",
+    "description": "Description of Product 2",
+    "price": 19.99,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154740/download-(2).jfif"
+  },
+  {
+    "id": 20,
+    "name": "Four",
+    "description": "Description of Product 3",
+    "price": 20,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154838/download-(3).jfif"
+  },
+  {
+    "id": 21,
+    "name": "Five",
+    "description": "Description of Product 4",
+    "price": 25,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154931/download.jfif"
+  },
+  {
+    "id": 22,
+    "name": "Six",
+    "description": "Description of Product 5",
+    "price": 30,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728155132/images-(1).jfif"
+  },
+  {
+    "id": 23,
+    "name": "Seven",
+    "description": "Description of Product 6",
+    "price": 999,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728155224/images.jfif"
+  },
+  {
+    "id": 24,
+    "name": "iWatch",
+    "description": "Description of Product 2",
+    "price": 19.99,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154740/download-(2).jfif"
+  },
+  {
+    "id": 25,
+    "name": "Cosmetics",
+    "description": "Description of Product 3",
+    "price": 20,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154838/download-(3).jfif"
+  },
+  {
+    "id": 26,
+    "name": "Instax",
+    "description": "Description of Product 4",
+    "price": 25,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154931/download.jfif"
+  },
+  {
+    "id": 27,
+    "name": "Beats Headphones",
+    "description": "Description of Product 5",
+    "price": 30,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728155132/images-(1).jfif"
+  },
+  {
+    "id": 28,
+    "name": "Laptop",
+    "description": "Description of Product 6",
+    "price": 999,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728155224/images.jfif"
+  },
+  {
+    "id": 29,
+    "name": "Product 1",
+    "description": "Description of Product 1",
+    "price": 9.99,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154500/download-(1).jfif"
+  },
+  {
+    "id": 30,
+    "name": "Product 2",
+    "description": "Description of Product 2",
+    "price": 19.99,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154740/download-(2).jfif"
+  },
+  {
+    "id": 31,
+    "name": "Product 3",
+    "description": "Description of Product 3",
+    "price": 20,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154838/download-(3).jfif"
+  },
+  {
+    "id": 32,
+    "name": "Product 4",
+    "description": "Description of Product 4",
+    "price": 25,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154931/download.jfif"
+  },
+  {
+    "id": 33,
+    "name": "Product 5",
+    "description": "Description of Product 5",
+    "price": 30,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728155132/images-(1).jfif"
+  },
+  {
+    "id": 34,
+    "name": "Product 6",
+    "description": "Description of Product 6",
+    "price": 999,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728155224/images.jfif"
+  },
+  {
+    "id": 35,
+    "name": "iWatch",
+    "description": "Description of Product 2",
+    "price": 19.99,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154740/download-(2).jfif"
+  },
+  {
+    "id": 36,
+    "name": "Cosmetics",
+    "description": "Description of Product 3",
+    "price": 20,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154838/download-(3).jfif"
+  },
+  {
+    "id": 37,
+    "name": "Instax",
+    "description": "Description of Product 4",
+    "price": 25,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154931/download.jfif"
+  },
+  {
+    "id": 38,
+    "name": "Beats Headphones",
+    "description": "Description of Product 5",
+    "price": 30,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728155132/images-(1).jfif"
+  },
+  {
+    "id": 39,
+    "name": "Laptop",
+    "description": "Description of Product 6",
+    "price": 999,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728155224/images.jfif"
+  },
+  {
+    "id": 40,
+    "name": "Product 1",
+    "description": "Description of Product 1",
+    "price": 9.99,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154500/download-(1).jfif"
+  },
+  {
+    "id": 41,
+    "name": "Product 2",
+    "description": "Description of Product 2",
+    "price": 19.99,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154740/download-(2).jfif"
+  },
+  {
+    "id": 42,
+    "name": "Product 3",
+    "description": "Description of Product 3",
+    "price": 20,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154838/download-(3).jfif"
+  },
+  {
+    "id": 43,
+    "name": "Product 4",
+    "description": "Description of Product 4",
+    "price": 25,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154931/download.jfif"
+  },
+  {
+    "id": 44,
+    "name": "Product 5",
+    "description": "Description of Product 5",
+    "price": 30,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728155132/images-(1).jfif"
+  },
+  {
+    "id": 45,
+    "name": "Product 6",
+    "description": "Description of Product 6",
+    "price": 999,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728155224/images.jfif"
+  },
+  {
+    "id": 46,
+    "name": "iWatch",
+    "description": "Description of Product 2",
+    "price": 19.99,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154740/download-(2).jfif"
+  },
+  {
+    "id": 47,
+    "name": "Cosmetics",
+    "description": "Description of Product 3",
+    "price": 20,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154838/download-(3).jfif"
+  },
+  {
+    "id": 48,
+    "name": "Instax",
+    "description": "Description of Product 4",
+    "price": 25,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154931/download.jfif"
+  }
+]
+}
